@@ -1,6 +1,12 @@
 # Build directory
 /build
 
+# Idea folder
+.idea
+
+# Gradle folder
+/gradle
+
 # Log file
 *.log
 
