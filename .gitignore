@@ -5,7 +5,7 @@
 .idea
 
 # Gradle folder
-/gradle
+.gradle
 
 # Log file
 *.log
